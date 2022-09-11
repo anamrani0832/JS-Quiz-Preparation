@@ -1,6 +1,13 @@
-// ALret is a keyword to display a message box
+//  ############# Chapter#1 ALret  ###############
+
 alert("This is my first program");    // Semicolon ends the every statement
 alert("Hi There, Anam");
 
 // ******   Alert Exercices is ended *******
+
+//  ########  Variables for numbers ###############
+let num = 5;
+alert(num);
+
+
 
