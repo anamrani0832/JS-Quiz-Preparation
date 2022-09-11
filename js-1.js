@@ -22,6 +22,6 @@ console.log("9" - 20);
 
 // // Math expressions:
 // Unfamiliar operators
-var num = 1;
-var newNum = num ++;
+var numOne = 1;
+var newNum = numOne++;
 console.log(newNum);
