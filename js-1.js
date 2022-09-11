@@ -17,3 +17,11 @@ alert(anamRani);
 var a_1;
 a_1 = "$";
 alert(a_1);
+console.log("9" + 9);
+console.log("9" - 20);
+
+// // Math expressions:
+// Unfamiliar operators
+var num = 1;
+var newNum = num ++;
+console.log(newNum);
