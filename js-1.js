@@ -10,5 +10,10 @@ let num = 5;
 num +=num;
 alert(num);
 
+// legill Variable Naming
+var anamRani = "Anam Rani";
+alert(anamRani);
 
-
+var a_1;
+a_1 = "$";
+alert(a_1);
