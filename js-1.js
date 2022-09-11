@@ -25,3 +25,4 @@ console.log("9" - 20);
 var numOne = 1;
 var newNum = numOne++;
 console.log(newNum);
+var newNumOne = ++numOne;
