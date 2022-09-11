@@ -7,6 +7,7 @@ alert("Hi There, Anam");
 
 //  ########  Variables for numbers ###############
 let num = 5;
+num +=num;
 alert(num);
 
 
