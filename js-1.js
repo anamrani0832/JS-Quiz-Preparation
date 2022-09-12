@@ -28,3 +28,4 @@ console.log(newNum);
 console.log(numOne);
 var newNumOne = ++numOne;
 console.log(newNumOne);
+console.log((2 + 2) * (4 + 10));
